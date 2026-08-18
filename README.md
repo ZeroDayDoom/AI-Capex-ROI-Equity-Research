@@ -9,12 +9,6 @@ a current price of **~$500** — roughly **32% downside**. Even a bull-case scen
 expansion, quicker capex normalization) implies **~$399**, still below market. The current price only
 clears the model in its most optimistic scenario (8.0% WACC + 4.5% terminal growth).
 
-📄 [**Read the full report**](report/MSFT_AI_Capex_ROI_Equity_Research_Report.pdf)
-📊 [**Open the model**](model/MSFT_AI_Capex_ROI_Model.xlsx)
-
-![Capex vs Revenue Growth](figures/chart1_capex_vs_revenue_growth.png)
-![Sensitivity Heatmap](figures/chart2_sensitivity_heatmap.png)
-
 ---
 
 ## Why this project
